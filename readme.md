@@ -34,5 +34,5 @@ This project focuses on analyzing Hospital Emergency Room data using **Power BI*
 - **Resource Utilization**: Efficiency of staff and equipment usage.
 - **Patient Outcomes**: Analysis of patient discharge and admission rates.
 
-## Referred of this Analysis is from this video
+## Reference of this Analysis is from this video
 - https://youtu.be/tws4hvF8n7g?si=w9d5iYXaEHagz1OW
